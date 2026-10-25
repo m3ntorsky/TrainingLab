@@ -1,6 +1,5 @@
 using Microsoft.Extensions.DependencyInjection;
-using TrainingLab.Core.Events;
-using TrainingLab.Core.Sessions;
+using TrainingLab.Core.Player;
 
 namespace TrainingLab.Core.Hosting;
 

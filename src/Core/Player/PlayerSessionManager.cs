@@ -1,7 +1,7 @@
 using System.Diagnostics.CodeAnalysis;
 using SwiftlyS2.Shared.Players;
 
-namespace TrainingLab.Core.Sessions;
+namespace TrainingLab.Core.Player;
 
 public sealed class PlayerSessionManager
 {

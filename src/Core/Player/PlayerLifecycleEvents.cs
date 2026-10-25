@@ -1,9 +1,8 @@
 using SwiftlyS2.Shared;
 using SwiftlyS2.Shared.Events;
 using SwiftlyS2.Shared.Players;
-using TrainingLab.Core.Sessions;
 
-namespace TrainingLab.Core.Events;
+namespace TrainingLab.Core.Player;
 
 public sealed class PlayerLifecycleEvents : IDisposable
 {

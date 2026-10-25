@@ -1,4 +1,4 @@
-namespace TrainingLab.Core.Sessions;
+namespace TrainingLab.Core.Player;
 
 
 public sealed class PlayerSession
