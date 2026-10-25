@@ -1,8 +1,8 @@
 <div align="center">
 
-# ◈ TrainingLab ◈ 
-
-### Practice deliberately. Improve consistently.
+<p align="center">
+  <img src="https://github.com/m3ntorsky/TrainingLab/blob/master/assets/traininglab-logo.png?raw=true" width="350" title="TrainingLab">
+</p>
 
 **A modular, server-side training framework for Counter-Strike 2.**  
 Built with C#, .NET 10 and [SwiftlyS2](https://swiftlys2.net/) to turn practice into progress.
@@ -20,7 +20,7 @@ Built with C#, .NET 10 and [SwiftlyS2](https://swiftlys2.net/) to turn practice 
   <img src="https://img.shields.io/badge/Platform-Source%202-475569?style=flat-square" alt="Source 2" />
 </p>
 
----
+</div>
 
 ## Overview
 
