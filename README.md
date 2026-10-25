@@ -4,7 +4,7 @@
   <img src="https://github.com/m3ntorsky/TrainingLab/blob/master/assets/traininglab-logo.png?raw=true" width="350" title="TrainingLab">
 </p>
 
-**A modular, server-side training framework for Counter-Strike 2.**  
+**A modular, server-side training plugin for Counter-Strike 2.**  
 Built with C#, .NET 10 and [SwiftlyS2](https://swiftlys2.net/) to turn practice into progress.
 
 <p>
